@@ -8,11 +8,17 @@
     "test": "vitest",
     "test:watch": "vitest --watch"
   },
-  "keywords": ["dsa", "data-structures", "algorithms", "typescript", "leetcode"],
+  "keywords": [
+    "dsa",
+    "data-structures",
+    "algorithms",
+    "typescript",
+    "leetcode"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.3.0",
-    "vitest": "^1.0.0"
+    "vitest": "^4.0.18"
   }
 }
